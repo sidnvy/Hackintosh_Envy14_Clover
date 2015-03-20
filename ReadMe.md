@@ -35,3 +35,4 @@ Save all ***.dsl** file as **AML** and put them to /EFI/CLOVER/ACPI/patched
 8. VoodooHDA.kext
 9. VoodooPS2Controller.kext
 
+Kext and Tools can find [Here on Google Drive ](https://drive.google.com/folderview?id=0B4zR-e_IblY1flpoY3daeG9CVXBPSEZGM1lUOHBvMHA0cHlJaVQtWG5WUHRlckFvUmZzTEE&usp=sharing)
